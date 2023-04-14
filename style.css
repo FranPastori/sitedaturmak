@@ -28,3 +28,7 @@ border-radius: 100px;
     display: inline;
     margin: 0px 0px 0px 20px;
 }
+
+.escola{
+    display: flex;
+}
