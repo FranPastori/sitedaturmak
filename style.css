@@ -10,6 +10,7 @@ background-color: #BCB0B0;
 
 width: 130px;
 height: 157px;
+border-radius: 100px;
 
 }
 
@@ -20,7 +21,10 @@ height: 157px;
 }
 
 .cabecalho__menu-item{
-
+    font-size: 32px;
+    color: rgb(232, 249, 1);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
     display: inline;
     margin: 0px 0px 0px 20px;
 }
