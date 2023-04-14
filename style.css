@@ -30,5 +30,15 @@ border-radius: 100px;
 }
 
 .escola{
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(232, 249, 1);
     display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola__imagem{
+    width: 300px;
+    height: auto;
 }
