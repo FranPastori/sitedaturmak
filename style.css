@@ -39,6 +39,14 @@ border-radius: 100px;
 }
 
 .escola__imagem{
+    margin: 20px;
     width: 300px;
     height: auto;
+}
+.escola__titulo{
+
+    text-align: center;
+}
+.escola__paragrafo{
+    text-align: justify;
 }
