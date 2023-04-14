@@ -1,5 +1,7 @@
 .cabecalho {
+display: flex;
 background-color: #BCB0B0;
+
 }
 
 .cabecalho__imagem {
