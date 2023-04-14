@@ -23,7 +23,7 @@ border-radius: 100px;
 .cabecalho__menu-item{
     font-size: 32px;
     color: rgb(232, 249, 1);
-    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
     display: inline;
     margin: 0px 0px 0px 20px;
