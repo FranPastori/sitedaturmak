@@ -2,6 +2,12 @@
 margin: 0%;
 padding: 0%;
 }
+
+body{
+    font-family: 'Sono', sans-serif;
+}
+
+
 .cabecalho {
 display: flex;
 justify-content: space-around;
