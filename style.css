@@ -32,7 +32,7 @@ border-radius: 100px;
 
 .cabecalho__menu-item{
     font-size: 32px;
-    color: rgb(232, 249, 1);
+    color:#FEC229
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: black;
     display: inline;
@@ -42,7 +42,7 @@ border-radius: 100px;
 .escola{
     margin: 20px;
     padding: 20px;
-    background-color: rgb(232, 249, 1);
+    background-color:#FEC229;
     display: flex;
     justify-content: center;
     align-items: center;
